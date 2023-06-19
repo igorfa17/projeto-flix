@@ -1,0 +1,18 @@
+.back-image{
+    background-image:url(./images/istockphoto-1336906460-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 150vh;    
+}
+
+.btn-danger{
+    width: 170px;
+    height: 75px;
+    color: white;
+    font-size: 50px;
+}
+
+.pagina-black{
+    width: 600px;
+    height: 400px;
+    background-color: black;
+}
