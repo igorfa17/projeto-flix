@@ -1,3 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    color: silver;
+}
+
 .back-image{
     background-image:url(./images/banner-initial.png);
 
@@ -8,7 +17,8 @@
     padding: 20px 35px;
     font-weight: 700;
     font-size: 25px;
-    border-radius: 10px;
+    border-radius: 5px;
+    border-style: none;
   }
   
   .button-vamos:hover {
@@ -21,5 +31,9 @@
 
 .divider-row{
     height: 2px;
+    background-color: silver;
+}
+
+.accordion{
     background-color: silver;
 }
