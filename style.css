@@ -21,10 +21,10 @@ footer{
     border-style: none;
   }
   
-  .button-vamos:hover {
+.button-vamos:hover {
     background-color: #b6060f;
     color: #ffffff;
-  }
+}
 .pagina-black{
     background-color: black;
 }
@@ -36,19 +36,19 @@ footer{
 
 .accordion-item {
     border: 5px solid #000000;
-  }
+}
   
-  .accordion-button {
+.accordion-button {
     background-color: #303030 !important;
     color: #ffffff !important;
     padding: 25px !important;
     font-size: 25px !important;
-  }
+}
   
-  .accordion-button:not(.collapsed) {
+.accordion-button:not(.collapsed) {
     color: #ffffff;
-  }
+}
   
-  .accordion-button::after {
+.accordion-button::after {
     background-image: url("../images/add.svg") !important;
-  }
+}
