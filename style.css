@@ -1,18 +1,25 @@
 .back-image{
-    background-image:url(./images/istockphoto-1336906460-612x612.jpg);
-    background-repeat: no-repeat;
-    background-size: 100vw 150vh;    
-}
+    background-image:url(./images/banner-initial.png);
 
-.btn-danger{
-    width: 170px;
-    height: 75px;
-    color: white;
-    font-size: 50px;
 }
-
+.button-vamos {
+    background-color: #e50914;
+    color: #ffffff;
+    padding: 20px 35px;
+    font-weight: 700;
+    font-size: 25px;
+    border-radius: 10px;
+  }
+  
+  .button-vamos:hover {
+    background-color: #b6060f;
+    color: #ffffff;
+  }
 .pagina-black{
-    width: 600px;
-    height: 400px;
     background-color: black;
+}
+
+.divider-row{
+    height: 2px;
+    background-color: silver;
 }
